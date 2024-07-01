@@ -18,15 +18,6 @@
 		6A89FE252C2A812B002EE8E0 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A89FE242C2A812B002EE8E0 /* ChatView.swift */; };
 		6A9B1D2B2C21532100C4A3C5 /* PendingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9B1D2A2C21532100C4A3C5 /* PendingView.swift */; };
 		6A9B1D2D2C21552A00C4A3C5 /* PendingProps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9B1D2C2C21552A00C4A3C5 /* PendingProps.swift */; };
-		6A9B1D892C216BD500C4A3C5 /* ヒラギノ角ゴ Std W0.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D7F2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W0.otf */; };
-		6A9B1D8A2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W1.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D802C216BD500C4A3C5 /* ヒラギノ角ゴ Std W1.otf */; };
-		6A9B1D8B2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W2.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D812C216BD500C4A3C5 /* ヒラギノ角ゴ Std W2.otf */; };
-		6A9B1D8C2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W3.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D822C216BD500C4A3C5 /* ヒラギノ角ゴ Std W3.otf */; };
-		6A9B1D8D2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W4.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D832C216BD500C4A3C5 /* ヒラギノ角ゴ Std W4.otf */; };
-		6A9B1D8E2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W5.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D842C216BD500C4A3C5 /* ヒラギノ角ゴ Std W5.otf */; };
-		6A9B1D8F2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W6.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D852C216BD500C4A3C5 /* ヒラギノ角ゴ Std W6.otf */; };
-		6A9B1D902C216BD500C4A3C5 /* ヒラギノ角ゴ Std W7.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D862C216BD500C4A3C5 /* ヒラギノ角ゴ Std W7.otf */; };
-		6A9B1D912C216BD500C4A3C5 /* ヒラギノ角ゴ Std W9.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A9B1D872C216BD500C4A3C5 /* ヒラギノ角ゴ Std W9.otf */; };
 		6A9B1D932C21784D00C4A3C5 /* CarrerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9B1D922C21784D00C4A3C5 /* CarrerView.swift */; };
 		6A9B1D962C21844D00C4A3C5 /* PendingCheckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9B1D952C21844D00C4A3C5 /* PendingCheckView.swift */; };
 		6A9B1D992C219B6D00C4A3C5 /* PairInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9B1D982C219B6D00C4A3C5 /* PairInfoView.swift */; };
@@ -45,6 +36,7 @@
 		6AC388BE2C1DF0CD00CCB4A7 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC388BD2C1DF0CD00CCB4A7 /* Person.swift */; };
 		6AC388C02C1DF43B00CCB4A7 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC388BF2C1DF43B00CCB4A7 /* UserViewModel.swift */; };
 		6ACC89442C25B5F50076DDB7 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ACC89432C25B5F50076DDB7 /* Date.swift */; };
+		BE0C18042C3245600096DE0B /* HiraginoSans in Resources */ = {isa = PBXBuildFile; fileRef = BE0C18032C3245600096DE0B /* HiraginoSans */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,15 +50,6 @@
 		6A89FE242C2A812B002EE8E0 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
 		6A9B1D2A2C21532100C4A3C5 /* PendingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PendingView.swift; sourceTree = "<group>"; };
 		6A9B1D2C2C21552A00C4A3C5 /* PendingProps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PendingProps.swift; sourceTree = "<group>"; };
-		6A9B1D7F2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W0.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W0.otf"; sourceTree = "<group>"; };
-		6A9B1D802C216BD500C4A3C5 /* ヒラギノ角ゴ Std W1.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W1.otf"; sourceTree = "<group>"; };
-		6A9B1D812C216BD500C4A3C5 /* ヒラギノ角ゴ Std W2.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W2.otf"; sourceTree = "<group>"; };
-		6A9B1D822C216BD500C4A3C5 /* ヒラギノ角ゴ Std W3.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W3.otf"; sourceTree = "<group>"; };
-		6A9B1D832C216BD500C4A3C5 /* ヒラギノ角ゴ Std W4.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W4.otf"; sourceTree = "<group>"; };
-		6A9B1D842C216BD500C4A3C5 /* ヒラギノ角ゴ Std W5.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W5.otf"; sourceTree = "<group>"; };
-		6A9B1D852C216BD500C4A3C5 /* ヒラギノ角ゴ Std W6.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W6.otf"; sourceTree = "<group>"; };
-		6A9B1D862C216BD500C4A3C5 /* ヒラギノ角ゴ Std W7.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W7.otf"; sourceTree = "<group>"; };
-		6A9B1D872C216BD500C4A3C5 /* ヒラギノ角ゴ Std W9.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ヒラギノ角ゴ Std W9.otf"; sourceTree = "<group>"; };
 		6A9B1D922C21784D00C4A3C5 /* CarrerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrerView.swift; sourceTree = "<group>"; };
 		6A9B1D952C21844D00C4A3C5 /* PendingCheckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PendingCheckView.swift; sourceTree = "<group>"; };
 		6A9B1D982C219B6D00C4A3C5 /* PairInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairInfoView.swift; sourceTree = "<group>"; };
@@ -85,6 +68,7 @@
 		6AC388BD2C1DF0CD00CCB4A7 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		6AC388BF2C1DF43B00CCB4A7 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
 		6ACC89432C25B5F50076DDB7 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		BE0C18032C3245600096DE0B /* HiraginoSans */ = {isa = PBXFileReference; lastKnownFileType = folder; name = HiraginoSans; path = ../../../../Downloads/HiraginoSans; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,26 +109,9 @@
 		6A9B1D7A2C21658A00C4A3C5 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				6A9B1D882C216BD500C4A3C5 /* HiraginoSans */,
+				BE0C18032C3245600096DE0B /* HiraginoSans */,
 			);
 			path = Fonts;
-			sourceTree = "<group>";
-		};
-		6A9B1D882C216BD500C4A3C5 /* HiraginoSans */ = {
-			isa = PBXGroup;
-			children = (
-				6A9B1D7F2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W0.otf */,
-				6A9B1D802C216BD500C4A3C5 /* ヒラギノ角ゴ Std W1.otf */,
-				6A9B1D812C216BD500C4A3C5 /* ヒラギノ角ゴ Std W2.otf */,
-				6A9B1D822C216BD500C4A3C5 /* ヒラギノ角ゴ Std W3.otf */,
-				6A9B1D832C216BD500C4A3C5 /* ヒラギノ角ゴ Std W4.otf */,
-				6A9B1D842C216BD500C4A3C5 /* ヒラギノ角ゴ Std W5.otf */,
-				6A9B1D852C216BD500C4A3C5 /* ヒラギノ角ゴ Std W6.otf */,
-				6A9B1D862C216BD500C4A3C5 /* ヒラギノ角ゴ Std W7.otf */,
-				6A9B1D872C216BD500C4A3C5 /* ヒラギノ角ゴ Std W9.otf */,
-			);
-			name = HiraginoSans;
-			path = ../../../../../../../../Downloads/HiraginoSans;
 			sourceTree = "<group>";
 		};
 		6A9B1D942C21828A00C4A3C5 /* phase2 */ = {
@@ -306,17 +273,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A9B1D8D2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W4.otf in Resources */,
-				6A9B1D912C216BD500C4A3C5 /* ヒラギノ角ゴ Std W9.otf in Resources */,
-				6A9B1D8B2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W2.otf in Resources */,
-				6A9B1D8A2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W1.otf in Resources */,
-				6A9B1D902C216BD500C4A3C5 /* ヒラギノ角ゴ Std W7.otf in Resources */,
-				6A9B1D892C216BD500C4A3C5 /* ヒラギノ角ゴ Std W0.otf in Resources */,
 				6AC388BA2C1DED6E00CCB4A7 /* userData.json in Resources */,
 				6AB242632C1AB2B700FDE760 /* Preview Assets.xcassets in Resources */,
-				6A9B1D8E2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W5.otf in Resources */,
-				6A9B1D8F2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W6.otf in Resources */,
-				6A9B1D8C2C216BD500C4A3C5 /* ヒラギノ角ゴ Std W3.otf in Resources */,
+				BE0C18042C3245600096DE0B /* HiraginoSans in Resources */,
 				6AB242602C1AB2B700FDE760 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
