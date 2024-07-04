@@ -110,10 +110,18 @@ struct PendingView: View {
                     .foregroundStyle(Color.grey300)
                 VStack(alignment: .leading) {
                     HStack(alignment: .center, spacing: 44) {
-                        Circle()
-                            .foregroundColor(.gray)
-                            .frame(width: 80, height: 80)
-                            .shadow(color: .black.opacity(0.25), radius: 7.5, x: 0, y: 0)
+                        ZStack {
+                            Circle()
+                                .fill(Color.clear)
+                                .frame(width: 80, height: 80)
+                                .shadow(color: .black.opacity(0.25), radius: 5, x: 5, y: 5)
+                            
+                            Image("human1")
+                                .resizable()
+                                .aspectRatio(contentMode: .fill)
+                                .frame(width: 80, height: 80)
+                                .clipShape(Circle())
+                            }
                         VStack(alignment: .leading) {
                             Text("\(pendingUser.transmission.user.first_name) \(pendingUser.transmission.user.last_name)")
                                 .font(Font.custom("HiraKakuStd-W7", size: 20))
@@ -123,6 +131,7 @@ struct PendingView: View {
                                 .font(Font.custom("HiraKakuStd-W7", size: 12))
                                 .multilineTextAlignment(.center)
                                 .foregroundColor(Color(red: 0.14, green: 0.14, blue: 0.14))
+                            
                         }
 
                     }
@@ -157,6 +166,19 @@ struct PendingView: View {
                                         .font(Font.custom("HiraKakuStd-W7", size: 12))
                                         .multilineTextAlignment(.center)
                                         .foregroundColor(Color(red: 0.14, green: 0.14, blue: 0.14))
+                                    HStack{
+                                        Circle()
+                                            .foregroundStyle(Color.red500)
+                                            .frame(width: 36, height: 36)
+                                            .shadow(color: .black.opacity(0.25), radius: 7.5, x: 0, y: 0)
+                                        Spacer()
+                                            .frame(width:48)
+                                        Circle()
+                                            .foregroundStyle(Color.green600)
+                                            .frame(width: 36, height: 36)
+                                            .shadow(color: .black.opacity(0.25), radius: 7.5, x: 0, y: 0)
+                                    }
+                                    .padding(.horizontal)
                                 }
                                 
                             }
